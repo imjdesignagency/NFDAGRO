@@ -1,0 +1,6 @@
+{
+  "name": "NFD Agro Limited - Architecting Nigeria's New Agricultural Economy",
+  "description": "NFD Agro Limited is a vertically integrated agribusiness and Integrated Agri-Management Platform (IAMP) de-risking agricultural value chains across Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

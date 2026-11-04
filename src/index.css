@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: #0B281B;
+    background-color: #F6F5F0;
+  }
+  .font-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+  .font-sans {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+}
+
+.paper-card {
+  background-color: #FFFFFF;
+  border: 1px solid #E5E2D8;
+  box-shadow: 0 4px 20px -2px rgba(11, 40, 27, 0.03), 0 2px 6px -1px rgba(11, 40, 27, 0.02);
+}
+
+.paper-border {
+  border-color: #E5E2D8;
+}
+
+.dark-plate {
+  background-color: #0B281B;
+  color: #FFFFFF;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
