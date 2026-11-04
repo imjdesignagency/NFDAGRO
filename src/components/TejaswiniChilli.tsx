@@ -77,7 +77,7 @@ export const TejaswiniChilli: React.FC<TejaswiniChilliProps> = ({ onOpenContact 
             <div className="lg:col-span-5 relative">
               <div className="rounded-2xl overflow-hidden border-2 border-[#40916C]/60 shadow-xl">
                 <img
-                  src="/src/assets/images/nfd_chilli_project_1793818947264.jpg"
+                  src="/images/nfd_chilli_project_1793818947264.jpg"
                   alt="Tejaswini Hybrid Chilli Field in Nigeria"
                   className="w-full h-72 lg:h-96 object-cover"
                   referrerPolicy="no-referrer"

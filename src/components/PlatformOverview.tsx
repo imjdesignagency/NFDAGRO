@@ -126,7 +126,7 @@ export const PlatformOverview: React.FC = () => {
         <div className="rounded-3xl bg-white border border-black/5 p-6 sm:p-8 shadow-sm flex flex-col md:flex-row items-center gap-8">
           <div className="w-full md:w-1/2 rounded-2xl overflow-hidden border border-black/5 shrink-0">
             <img
-              src="/src/assets/images/nfd_silo_bank_1793818946998.jpg"
+              src="/images/nfd_silo_bank_1793818946998.jpg"
               alt="NFD Agro Silo-Bank Grain Storage & Logistics"
               className="w-full h-52 sm:h-64 object-cover"
               referrerPolicy="no-referrer"

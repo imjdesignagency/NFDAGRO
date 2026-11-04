@@ -34,7 +34,7 @@ export const FlagshipProject: React.FC<FlagshipProjectProps> = ({ onOpenContact 
           <div className="lg:col-span-6 relative">
             <div className="rounded-3xl overflow-hidden border border-white/10 shadow-2xl bg-[#081810] relative group">
               <img
-                src="/src/assets/images/nfd_chilli_project_1793818947264.jpg"
+                src="/images/nfd_chilli_project_1793818947264.jpg"
                 alt="Tejaswini Hybrid Chilli Harvest in Nigeria"
                 className="w-full h-80 sm:h-[420px] object-cover group-hover:scale-105 transition-transform duration-500"
                 referrerPolicy="no-referrer"

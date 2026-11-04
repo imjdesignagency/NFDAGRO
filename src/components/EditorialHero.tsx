@@ -2,6 +2,8 @@ import React from 'react';
 import { ArrowRight, Play, ShieldCheck, ArrowUpRight, Sparkles } from 'lucide-react';
 import { COMPANY_INFO } from '../data/companyData';
 
+import heroFarmImg from '../assets/images/nfd_hero_farm_1793818947350.jpg';
+
 interface EditorialHeroProps {
   onOpenDossier: (docIndex?: number) => void;
   onOpenInquiry: () => void;
@@ -77,7 +79,7 @@ export const EditorialHero: React.FC<EditorialHeroProps> = ({
             <div className="paper-card rounded-2xl p-3 shadow-md group">
               <div className="relative rounded-xl overflow-hidden bg-stone-900">
                 <img
-                  src="/src/assets/images/nfd_hero_farm_1793818947350.jpg"
+                  src={heroFarmImg}
                   alt="Mechanized Grain Harvesting in Nigeria"
                   className="w-full h-80 sm:h-96 object-cover transition-transform duration-700 group-hover:scale-103"
                   referrerPolicy="no-referrer"

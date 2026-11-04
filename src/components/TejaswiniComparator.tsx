@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Flame, ArrowUpRight, TrendingUp, Sliders, Check, AlertCircle } from 'lucide-react';
+import chilliProjectImg from '../assets/images/nfd_chilli_project_1793818947264.jpg';
 
 interface TejaswiniComparatorProps {
   onOpenInquiry: () => void;
@@ -165,7 +166,7 @@ export const TejaswiniComparator: React.FC<TejaswiniComparatorProps> = ({ onOpen
             <div className="lg:col-span-5 relative">
               <div className="rounded-2xl overflow-hidden border border-[#E5E2D8] bg-stone-900 shadow-md group">
                 <img
-                  src="/src/assets/images/nfd_chilli_project_1793818947264.jpg"
+                  src={chilliProjectImg}
                   alt="Tejaswini Chilli Plants in Nigeria"
                   className="w-full h-80 sm:h-[460px] object-cover transition-transform duration-700 group-hover:scale-103"
                   referrerPolicy="no-referrer"

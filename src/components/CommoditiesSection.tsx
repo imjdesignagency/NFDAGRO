@@ -49,7 +49,7 @@ export const CommoditiesSection: React.FC = () => {
           {/* Catalog Image Teaser */}
           <div className="w-full lg:w-72 h-36 rounded-2xl overflow-hidden border border-slate-200 shadow-sm shrink-0">
             <img
-              src="/src/assets/images/nfd_commodities_catalog_1793818946614.jpg"
+              src="/images/nfd_commodities_catalog_1793818946614.jpg"
               alt="NFD Agro Organic Commodities in Hessian Sacks"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"

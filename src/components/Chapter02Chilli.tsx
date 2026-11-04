@@ -80,7 +80,7 @@ export const Chapter02Chilli: React.FC<Chapter02ChilliProps> = ({ onOpenInquiry 
             <div className="lg:col-span-5 relative">
               <div className="rounded-2xl overflow-hidden border border-white/15 bg-black/40 shadow-xl group">
                 <img
-                  src="/src/assets/images/nfd_chilli_project_1793818947264.jpg"
+                  src="/images/nfd_chilli_project_1793818947264.jpg"
                   alt="Tejaswini Hybrid Chilli Harvest in Nigeria"
                   className="w-full h-80 sm:h-[420px] object-cover transition-transform duration-700 group-hover:scale-103"
                   referrerPolicy="no-referrer"

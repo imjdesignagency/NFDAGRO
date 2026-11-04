@@ -76,7 +76,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenDoc, onOpenContact }) => {
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-2xl overflow-hidden border border-white/15 shadow-2xl bg-[#091D13] group">
               <img
-                src="/src/assets/images/nfd_hero_farm_1793818947350.jpg"
+                src="/images/nfd_hero_farm_1793818947350.jpg"
                 alt="NFD Agro Mechanized Harvesting in Nigeria"
                 className="w-full h-80 sm:h-96 lg:h-[440px] object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"

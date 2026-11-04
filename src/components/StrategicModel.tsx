@@ -195,7 +195,7 @@ export const StrategicModel: React.FC = () => {
 
             <div className="lg:col-span-5 rounded-2xl overflow-hidden border border-[#40916C]/60">
               <img
-                src="/src/assets/images/nfd_silo_bank_1793818946998.jpg"
+                src="/images/nfd_silo_bank_1793818946998.jpg"
                 alt="NFD Agro Silo Bank Storage Facility"
                 className="w-full h-48 lg:h-56 object-cover"
                 referrerPolicy="no-referrer"

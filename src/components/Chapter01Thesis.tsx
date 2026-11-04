@@ -75,7 +75,7 @@ export const Chapter01Thesis: React.FC<Chapter01ThesisProps> = ({
             <div className="rounded-2xl overflow-hidden bg-white border border-[#E7E5DC] shadow-sm p-3 group">
               <div className="relative rounded-xl overflow-hidden">
                 <img
-                  src="/src/assets/images/nfd_hero_farm_1793818947350.jpg"
+                  src="/images/nfd_hero_farm_1793818947350.jpg"
                   alt="Mechanized Harvesting at NFD Agro Farmbelt"
                   className="w-full h-80 sm:h-96 object-cover transition-transform duration-700 group-hover:scale-103"
                   referrerPolicy="no-referrer"
@@ -224,7 +224,7 @@ export const Chapter01Thesis: React.FC<Chapter01ThesisProps> = ({
 
               <div className="lg:col-span-6 rounded-2xl overflow-hidden border border-[#E7E5DC]">
                 <img
-                  src="/src/assets/images/nfd_silo_bank_1793818946998.jpg"
+                  src="/images/nfd_silo_bank_1793818946998.jpg"
                   alt="NFD Agro Steel Silo Storage Bank"
                   className="w-full h-64 object-cover"
                   referrerPolicy="no-referrer"
